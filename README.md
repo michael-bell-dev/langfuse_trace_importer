@@ -11,7 +11,9 @@ LANGFUSE_SECRET_KEY=sk-lf-...
 
 ## Usage
 Download an existing trace from Langfuse using the button in Log View:
+
 ![Screenshot](DownloadButton.png)
+
 
 #### Basic Usage
 python trace_importer_fixed.py trace_export.json
